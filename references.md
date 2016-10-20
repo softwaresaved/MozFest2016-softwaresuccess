@@ -5,7 +5,8 @@ This is a list of material that participants might find useful
 ## Tools
 
 * Depsy: http://depsy.org/
-* Software Discovery Dashboard: https://github.com/mozillascience/software-discovery-dashboard 3 CodeMeta: https://github.com/codemeta/codemeta
+* Software Discovery Dashboard: https://github.com/mozillascience/software-discovery-dashboard
+* CodeMeta: https://github.com/codemeta/codemeta
 * Code as a Research Object: https://science.mozilla.org/projects/codemeta
 * ContentMine: http://contentmine.org/
 * ScholarNinja: https://github.com/ScholarNinja/software_metadata 
