@@ -27,9 +27,9 @@ Each person says:
 1. Break into pairs. 
 2. One person in the pair:
   * Chooses a piece of research software / scientific software they think is successful
-  * Describe to their partner why they think it is successful
+  * Describe to their partner why they think it is successful (Dan: maybe phrase this in terms of what measures makes them think it is successful?)
 3. Swap and do they same for the other person in the pair
-4. Discuss whether you had the same ways of identifying successful software, and where they differed.
+4. Discuss whether you had the same ways of identifying successful software, and where they differed. (Dan: is this discussion just between each pair or is it between all the pairs?)
 
 ### Learning Goal
 
@@ -47,6 +47,8 @@ Guided by the following questions:
 * Does the absence of a characteristic always mean that the software is unsuccessful?
 * Are any characteristics easier to measure than others?
 * Do you think any characteristics more accurate than others?
+
+(Dan: It's interesting to me that the word metric isn't used above - should it be?)
 
 ### Learning Goal
 
@@ -75,7 +77,7 @@ and attempts to apply it to one of a set of pre-chosen pieces of research softwa
 ### Learning Goal
 
 1. Understand how to create appropriate measures.
-2. Gain an understanding of how easy it is to use particular measures.
+2. Gain an understanding of how easy it is to use particular measures. (Dan: Does 'use' mean measure/collect, or interpret?)
 
 ## Synthesis - Summarising what we've learned
 
