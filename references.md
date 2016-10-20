@@ -23,7 +23,7 @@ This is a list of material that participants might find useful
 * Crowston, K., Howison, J., & Annabi, H. (2006). [Information systems success in free and open source software development: Theory and measures](http://onlinelibrary.wiley.com/doi/10.1002/spip.259/abstract). Software Process: Improvement and Practice, 11(2), 148.
 * Delone, W., & Mclean, E. (2003). [The Delone and Mclean model of Information Systems Success: A ten year update](http://dl.acm.org/citation.cfm?id=1289767). Journal of MIS, 19(4), -30.
 * Subramaniam, C. et al. 2009. Determinants of open source software project success: A longitudinal study. Decision Support Systems, vol. 46, pp. 576-585. 
-* English, R., and Schweik, C. 2007. Identifying success and abandonment of FLOSS commons: A classification of Sourceforge. net projects, Upgrade: The European Journal for the Informatics Professional VIII, vol. 6.
+* English, R., and Schweik, C. 2007. Identifying success and abandonment of FLOSS commons: A classification of Sourceforge.net projects, Upgrade: The European Journal for the Informatics Professional VIII, vol. 6.
 * Wiggins, A. and Crowston, K. 2010. Reclassifying success and tragedy in FLOSS projects. Open Source Software: New Horizons, pp. 294-307.
 * Piggott, J. and Amrit, C. 2013. How Healthy Is My Project? Open Source Project Attributes as Indicators of Success. In Proceedings of the 9th International Conference on Open Source Systems. DOI: 10.1007/978-3-642-38928-3_3.
 * Gary C. Moore, Izak Benbasat. 1991. Development of an Instrument to Measure the Perceptions of Adopting an Information Technology Innovation Information Systems Research 19912:3 , 192-222 
