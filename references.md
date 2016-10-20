@@ -13,7 +13,7 @@ This is a list of material that participants might find useful
 * Lagatto: https://github.com/lagotto/lagotto
 * Libraries.io: https://libraries.io/
 * SciCrunch: https://scicrunch.org
-* FigShare: https://figshare.com/
+* figshare: https://figshare.com/
 * OSF: https://osf.io/
 * Zenodo: https://zenodo.org/
 
