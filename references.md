@@ -35,8 +35,7 @@ This is a list of material that participants might find useful
 * Gardler, R. 2013. Software Sustainability Maturity Model. Accessed on 21st July 2014 from: http://oss-watch.ac.uk/resources/ssmm
 * NASA Earth Science Data Systems Software Reuse Working Group (2010). Reuse Readiness Levels (RRLs), Version 1.0. April 30, 2010. Accessed from: http://www.esdswg.org/softwarereuse/Resources/rrls/
 * Marshall, J.J., and Downs, R.R. 2008. Reuse Readiness Levels as a Measure of Software Reusability. In proceedings of Geoscience and Remote Sensing Symposium. Volume 3. P1414-1417. DOI: 10.1109/IGARSS.2008.4779626
-
-Chue Hong, N. 2013. Five stars of research software. Accessed on 8th July 2016 from: http://www.software.ac.uk/blog/2013-04-09-five-stars-research-software
+* Chue Hong, N. 2013. Five stars of research software. Accessed on 8th July 2016 from: http://www.software.ac.uk/blog/2013-04-09-five-stars-research-software
 
 ## Software Quality
 
