@@ -1,5 +1,11 @@
 # Session plan
 
+## Facilitators
+
+* Neil Chue Hong, Software Sustainability Institute
+* Catherine Jones, STFC
+* Andrew Nesbitt, Libraries.io
+
 ## Introductions
 
 ### Summary
