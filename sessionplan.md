@@ -1,4 +1,7 @@
+
 # Session plan
+
+(Catherine: I think it might be a good idea to assign rough timings as I think this current plan may take longer than the alloted session)
 
 ## Facilitators
 
