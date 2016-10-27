@@ -9,40 +9,47 @@
 * Catherine Jones, STFC
 * Andrew Nesbitt, Libraries.io
 
-## Introductions
+## Introductions *(10 minutes)*
 
 ### Summary
 
+General introductions from facilitators *(5 minutes)*
+
+Participant introductions *(5 minutes)*
+
 Each person says:
 * their name
-* where they're coming from
+* where they're from
 * one thing they're looking to learn from this workshop
+
+Note: if there are a lot of people attending the session (>10) ask them to split 
+into smaller groups and do the introductions within the groups.
 
 ### Learning Goal
 
 1. Understand the background of the attendees and how you relate to them.
 
 
-## Activity - Identifying Successful Software
+## Activity - Identifying Successful Software *(10 minutes)*
 
 ### Summary
 
-1. Break into pairs. 
-2. One person in the pair:
+1. Introduce exercise and break into pairs. *(1 minute)*
+2. One person in the pair: *(3 minutes)*
   * Chooses a piece of research software / scientific software they think is successful
-  * Describe to their partner why they think it is successful (Dan: maybe phrase this in terms of what measures makes them think it is successful?)
-3. Swap and do they same for the other person in the pair
-4. Discuss whether you had the same ways of identifying successful software, and where they differed. (Dan: is this discussion just between each pair or is it between all the pairs?)
+  * Describes to their partner what characteristics or measures make them think it is successful
+3. Swap and do they same for the other person in the pair *(3 minutes)*
+4. Discuss within the pair whether they had the same ways of identifying successful software, and where they differed. *(3 minutes)*
 
 ### Learning Goal
 
 1. Understanding how different people judge the success of software
 
-## Discussion - How Do People Identify Success
+## Discussion - How Do People Identify Success *(10 minutes)*
 
 ### Summary
 
-A group discussion of how people found this exercise, what they noticed in discussing with their partner. 
+A group discussion of how people found this exercise, what they noticed in discussing with their partner. *(10 minutes)*
 
 Guided by the following questions:
 * Were there any characteristics that everyone in your group thought were important?
@@ -51,26 +58,26 @@ Guided by the following questions:
 * Are any characteristics easier to measure than others?
 * Do you think any characteristics more accurate than others?
 
-(Dan: It's interesting to me that the word metric isn't used above - should it be?)
-
 ### Learning Goal
 
 1. Understand the main priorities
 2. Reflect on the process 
 
 
-## Input - What are existing models of measuring success
+## Input - What are existing models of measuring success *(10 minutes)*
 
 ### Summary
 
-Present a brief overview of existing models of success.
+Present a brief overview of existing models of success, including metrics used by others.
+
+Note: Cut down this section if running over, and point people to material in slides / references.
 
 ### Learning Goal
 
 1. Provide a grounding in existing work in this area to participants.
 2. Understand where to get further information.
 
-## Deepening - Rating Software Exercise
+## Deepening - Rating Software Exercise *(15 minutes)*
 
 ### Summary
 
@@ -80,9 +87,9 @@ and attempts to apply it to one of a set of pre-chosen pieces of research softwa
 ### Learning Goal
 
 1. Understand how to create appropriate measures.
-2. Gain an understanding of how easy it is to use particular measures. (Dan: Does 'use' mean measure/collect, or interpret?)
+2. Gain an understanding of how easy it is to use particular measures, both in terms of collection and interpretation.
 
-## Synthesis - Summarising what we've learned
+## Synthesis - Summarising what we've learned *(5 minutes)*
 
 ### Summary
 
