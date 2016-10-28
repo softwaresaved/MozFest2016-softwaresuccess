@@ -91,7 +91,8 @@ and attempts to apply it to one of a set of pre-chosen pieces of research softwa
 3. Use these to rank the following set of software:
   a. scipy
   b. spyder
-  c. R.utils
+  c. pycse
+  d. R.utils
   
   
 #### Offline rating exercise ####
