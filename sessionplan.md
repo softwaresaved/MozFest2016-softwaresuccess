@@ -77,16 +77,32 @@ Note: Cut down this section if running over, and point people to material in sli
 1. Provide a grounding in existing work in this area to participants.
 2. Understand where to get further information.
 
-## Deepening - Rating Software Exercise *(15 minutes)*
+## Deepening - Measuring Software Exercise *(15 minutes)*
 
 ### Summary
 
 An exercise in small groups where each group aims to come up with a set of measures to judge software, 
-and attempts to apply it to one of a set of pre-chosen pieces of research software.
+and attempts to apply it to one of a set of pre-chosen pieces of research software by creating appropriate metrics.
+
+#### Online rating exercise ####
+
+1. Using the set of measures suggested earlier in the session, choose three that as a group you think are the most important to you
+2. Create a set of metrics that would allow you to rate a piece of software against that measure. For example: if your measure is "community growth", you might think of metrics such as "number of contributors", "number of issues opened".
+3. Use these to rank the following set of software:
+  a. scipy
+  b. spyder
+  c. R.utils
+  
+  
+#### Offline rating exercise ####
+
+1. Using the set of measures suggested earlier in the session, choose three that as a group you think are the most important to you
+2. Create a set of metrics that would allow you to rate a piece of software against that measure. For example: if your measure is "community growth", you might think of metrics such as "number of contributors", "number of issues opened".
+3. Apply it to a piece of software that you are familiar with.
 
 ### Learning Goal
 
-1. Understand how to create appropriate measures.
+1. Understand how to choose appropriate measures and create sensible metrics.
 2. Gain an understanding of how easy it is to use particular measures, both in terms of collection and interpretation.
 
 ## Synthesis - Summarising what we've learned *(5 minutes)*
