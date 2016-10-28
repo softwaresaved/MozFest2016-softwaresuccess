@@ -10,7 +10,7 @@ This is a list of material that participants might find useful
 * Code as a Research Object: https://science.mozilla.org/projects/codemeta
 * ContentMine: http://contentmine.org/
 * ScholarNinja: https://github.com/ScholarNinja/software_metadata 
-* Lagatto: https://github.com/lagotto/lagotto
+* Lagotto: http://www.lagotto.io
 * Libraries.io: https://libraries.io/
 * SciCrunch: https://scicrunch.org
 * figshare: https://figshare.com/
